@@ -33,13 +33,13 @@
     "icons": [
         {
             "src": "img/favicon.svg",
-            "sizes": "16x16",
-            "type": "image/png"
+            "sizes": "any",
+            "type": "image/svg+xml"
         },
         {
             "src": "img/favicon.svg",
-            "sizes": "32x32",
-            "type": "image/png"
+            "sizes": "any",
+            "type": "image/svg+xml"
         },
         {
             "src": "img/apple-touch-icon.png",
