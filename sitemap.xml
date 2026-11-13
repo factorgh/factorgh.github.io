@@ -5,70 +5,49 @@
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     
     <url>
-        <loc>https://davidmensah.dev/</loc>
+        <loc>https://factorgh.github.io/</loc>
         <lastmod>2024-12-19T00:00:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     
     <url>
-        <loc>https://davidmensah.dev/#about</loc>
+        <loc>https://factorgh.github.io/#about</loc>
         <lastmod>2024-12-19T00:00:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     
     <url>
-        <loc>https://davidmensah.dev/#experience</loc>
+        <loc>https://factorgh.github.io/#experience</loc>
         <lastmod>2024-12-19T00:00:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     
     <url>
-        <loc>https://davidmensah.dev/#education</loc>
+        <loc>https://factorgh.github.io/#education</loc>
         <lastmod>2024-12-19T00:00:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://davidmensah.dev/#achievements</loc>
+        <loc>https://factorgh.github.io/#services</loc>
         <lastmod>2024-12-19T00:00:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://davidmensah.dev/#services</loc>
-        <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://davidmensah.dev/#portfolio</loc>
+        <loc>https://factorgh.github.io/#portfolio</loc>
         <lastmod>2024-12-19T00:00:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     
     <url>
-        <loc>https://davidmensah.dev/#videos</loc>
-        <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    
-    <url>
-        <loc>https://davidmensah.dev/#articles</loc>
-        <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    
-    <url>
-        <loc>https://davidmensah.dev/#footer</loc>
+        <loc>https://factorgh.github.io/#footer</loc>
         <lastmod>2024-12-19T00:00:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>

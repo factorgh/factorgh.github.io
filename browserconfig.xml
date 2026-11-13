@@ -9,11 +9,11 @@
             <TileColor>#0a192f</TileColor>
         </tile>
         <notification>
-            <polling-uri src="https://davidmensah.dev/notifications/"/>
-            <polling-uri2 src="https://davidmensah.dev/notifications/"/>
-            <polling-uri3 src="https://davidmensah.dev/notifications/"/>
-            <polling-uri4 src="https://davidmensah.dev/notifications/"/>
-            <polling-uri5 src="https://davidmensah.dev/notifications/"/>
+            <polling-uri src="https://factorgh.github.io/notifications/"/>
+            <polling-uri2 src="https://factorgh.github.io/notifications/"/>
+            <polling-uri3 src="https://factorgh.github.io/notifications/"/>
+            <polling-uri4 src="https://factorgh.github.io/notifications/"/>
+            <polling-uri5 src="https://factorgh.github.io/notifications/"/>
             <frequency>30</frequency>
             <cycle>1</cycle>
         </notification>
