@@ -32,12 +32,12 @@
     ],
     "icons": [
         {
-            "src": "img/favicon-16x16.png",
+            "src": "img/favicon.svg",
             "sizes": "16x16",
             "type": "image/png"
         },
         {
-            "src": "img/favicon-32x32.png",
+            "src": "img/favicon.svg",
             "sizes": "32x32",
             "type": "image/png"
         },
@@ -67,7 +67,7 @@
             "url": "/#about",
             "icons": [
                 {
-                    "src": "img/favicon-32x32.png",
+                    "src": "img/favicon.svg",
                     "sizes": "32x32"
                 }
             ]
@@ -79,7 +79,7 @@
             "url": "/#portfolio",
             "icons": [
                 {
-                    "src": "img/favicon-32x32.png",
+                    "src": "img/favicon.svg",
                     "sizes": "32x32"
                 }
             ]
@@ -91,7 +91,7 @@
             "url": "/#footer",
             "icons": [
                 {
-                    "src": "img/favicon-32x32.png",
+                    "src": "img/favicon.svg",
                     "sizes": "32x32"
                 }
             ]
